@@ -24,3 +24,14 @@ Retention Radar continuously prioritises clients by risk, tracks relationship he
 £150 per month.
 
 > This price will be validated through customer interviews and pilot users before launch.
+
+## Tech stack
+- Next.js 16 + TypeScript
+- Tailwind CSS v4
+- Framer Motion
+
+## Development
+
+```bash
+node node_modules/next/dist/bin/next dev --hostname 0.0.0.0
+```
