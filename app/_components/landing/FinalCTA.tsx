@@ -30,7 +30,9 @@ export function FinalCTA() {
           </p>
 
           <a
-            href="#"
+            href="https://calendly.com/retentionradarhq/retention-radar-test-call"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-brand-cyan text-[#030712] font-semibold text-base glow-btn"
           >
             Book a 20-minute Research Call

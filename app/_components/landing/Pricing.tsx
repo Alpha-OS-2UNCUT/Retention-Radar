@@ -60,7 +60,9 @@ export function Pricing() {
                 </ul>
 
                 <a
-                  href="#"
+                  href="https://calendly.com/retentionradarhq/retention-radar-test-call"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="block w-full py-3.5 rounded-xl bg-brand-cyan text-[#030712] font-semibold text-sm glow-btn text-center"
                 >
                   Book a 20-minute Research Call

@@ -63,7 +63,9 @@ export function Navbar() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="#pricing"
+            href="https://calendly.com/retentionradarhq/retention-radar-test-call"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-sm font-medium px-4 py-2 rounded-lg bg-cyan-500 text-[#030712] glow-btn hover:bg-cyan-400 transition-colors"
           >
             Book a Call
@@ -106,7 +108,9 @@ export function Navbar() {
                 </a>
               ))}
               <a
-                href="#pricing"
+                href="https://calendly.com/retentionradarhq/retention-radar-test-call"
+                target="_blank"
+                rel="noopener noreferrer"
                 onClick={() => setMenuOpen(false)}
                 className="text-sm font-medium px-4 py-2.5 rounded-lg bg-cyan-500 text-[#030712] text-center glow-btn"
               >
